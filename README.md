@@ -1,5 +1,5 @@
 Semplice backend per l'applicazione AIR, realizzato con FASTAPI.\
 Utilizza le tecnologie:
-- [https://www.assemblyai.com/](Assembly Ai): per trascrivere i file audio
-- [https://www.meaningcloud.com](Meaning Cloud): per riassumere i testi
-- [https://cloud.google.com](Google Cloud AI), in particolare Gemini 1.0, per il miglioramento dei testi e la creazione di risposte adeguate
+- [Assembly Ai](https://www.assemblyai.com/): per trascrivere i file audio
+- [Meaning Cloud](https://www.meaningcloud.com): per riassumere i testi
+- [Google Cloud AI](https://cloud.google.com), in particolare Gemini 1.0, per il miglioramento dei testi e la creazione di risposte adeguate
